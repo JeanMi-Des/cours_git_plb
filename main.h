@@ -1,2 +1,4 @@
 // Projet GIT, vas falloir coder.
-// Reste à déclarer les fonctions. 
+// Reste à déclarer les fonctions.
+
+// Bad coding  
